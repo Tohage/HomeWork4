@@ -46,6 +46,28 @@
       <command value="mvn clean verify" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="StatisticsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.statistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.statistic" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.statistic.StatisticsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatisticsServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
